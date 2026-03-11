@@ -120,6 +120,7 @@ canvas {
   transition: all 0.3s ease;
   backdrop-filter: blur(10px);
   padding: 1.2rem;
+  inline-size: revert-layer;
 }
 
 .control-btn:hover {
